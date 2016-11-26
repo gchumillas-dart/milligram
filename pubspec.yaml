@@ -1,6 +1,6 @@
 name: milligram
-description: A starting point for Dart libraries or applications.
-version: 0.0.1
+description: A porting of the Milligram CSS Framework for Dart.
+version: 0.0.2
 author: Gonzalo Chumillas <gchumillas@email.com>
 homepage: https://github.com/gchumillas-dart/milligram
 
